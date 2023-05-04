@@ -2,7 +2,7 @@
 Welcome to the Ball Bearing Fault Detection project repository!
 
 This repository contains the code and data for a simple project that intends to serve as Final year Capstone project.<br>
-Work presented ranges from preprocessing the Ball Bearing Vibrational Data, training and testing ML models for fault detection, image conversion and then feeding it to Convoluted Neural Networks.
+Work presented ranges from preprocessing the Ball Bearing Vibrational Data, training and testing various ML models for time domain features, image conversion and then feeding it to Convoluted Neural Networks (Shallow and ResNet18 architecture).
 
 #### Contributing
 Contributions from anyone interested in improving the project are welcomed. Whether you have ideas for new models, improvements to existing code, or just want to report a bug, you're encouraged to open an issue or submit a pull request.
